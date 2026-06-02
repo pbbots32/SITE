@@ -1,6 +1,6 @@
 function discord() {
     window.open(
-        "https://discord.gg/SEULINK",
+        "https://discord.gg/zKfftpNq",
         "_blank"
     );
 }
